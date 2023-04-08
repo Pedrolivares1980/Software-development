@@ -1,0 +1,25 @@
+html{
+    background-color: #7EA1C4;
+    color:#051122 ;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+header{
+    text-align: center;
+    font-size: x-large;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    display:flex;
+    justify-content:center;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    ;
+}
