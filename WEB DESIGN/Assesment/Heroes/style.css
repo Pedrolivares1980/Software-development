@@ -1,0 +1,15 @@
+*{
+background-color: rgb(196, 194, 194);
+text-align: center;
+}
+h1{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(5, 5, 5);
+    font-size: xx-large;
+}
+p{
+text-align: justify;
+font-size: larger;
+font-family: 'Times New Roman', Times, serif;
+}

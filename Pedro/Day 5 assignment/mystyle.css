@@ -1,0 +1,49 @@
+
+
+h2 {
+    font-family: sans-serif;
+    color:black;
+    text-align: center;
+}
+
+h3 {
+    font-family: sans-serif;
+    color:red;
+    text-align: center;
+}
+
+
+
+p {
+     
+    font-family:"Arial";
+    color:black;
+    text-align: center;
+}
+
+body{
+	background-color: moccasin;
+}
+
+.trail { 
+    position: absolute;
+    height: 6px; width: 6px;
+    border-radius: 3px;
+    background: teal;
+  }
+
+.ripple {
+   width: 10px;
+   height: 10px;
+   background-color: red;
+   position: fixed;
+   border-radius: 50%;
+   border: 1px solid #ffffff59;
+}
+
+@keyframes ripple-effect {
+   to {
+      transform:scale(15);
+      opacity: 0.01;
+   }
+}
